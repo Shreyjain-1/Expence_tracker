@@ -72,7 +72,10 @@ Zero third-party packages (just pure Flutter magic)
 
 Full platform-aware UI (iOS + Android)
 
-👨‍💻 Made By
+## 👨‍💻 Made By
+
 Shrey Jain
+
 👉 GitHub: Shreyjain-1
+
 📬 Reach out: jainshrey145@gmail.com
